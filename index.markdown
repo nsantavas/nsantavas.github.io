@@ -190,9 +190,11 @@ which output is added to the product of the Depthwise Separable Convolutional la
 ---
 If you find this paper useful in your research, please consider citing:
 
-	@article{huang2019convolutional,
-	 title={Convolutional Networks with Dense Connectivity},
-	 author={Huang, Gao and Liu, Zhuang and Pleiss, Geoff and Van Der Maaten, Laurens and Weinberger, Kilian},
-	 journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-	 year={2019}
-	 }
+	@misc{santavas2020attention,
+	    title={Attention! A Lightweight 2D Hand Pose Estimation Approach},
+	    author={Nicholas Santavas and Ioannis Kansizoglou and Loukas Bampis and Evangelos Karakasis and Antonios 		Gasteratos},
+	    year={2020},
+	    eprint={2001.08047},
+	    archivePrefix={arXiv},
+	    primaryClass={cs.CV}
+	}
