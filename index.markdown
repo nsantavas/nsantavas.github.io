@@ -11,7 +11,7 @@ layout: page
 <br />
 
 For the code please email to nsantavas@pme.duth.gr
-br />
+<br />
 
 # Abstract
 ---
