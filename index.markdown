@@ -10,7 +10,7 @@ layout: page
 </center>
 <br />
 
-For the code please email to <a href="mailto:nsantava@pme.duth.gr">Jon Doe</a><br>
+For the code please email to <a href="mailto:nsantava@pme.duth.gr">nsantava@pme.duth.gr</a><br>
 <br />
 
 # Abstract
@@ -199,6 +199,4 @@ If you find this paper useful in your research, please consider citing:
     author={Nicholas Santavas and Ioannis Kansizoglou and Loukas Bampis and Evangelos Karakasis and Antonios Gasteratos},
     year={2020},
     eprint={2001.08047},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
 }
