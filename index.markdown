@@ -10,7 +10,7 @@ layout: page
 </center>
 <br />
 
-For the code please email to nsantavas@pme.duth.gr
+For the code please email to <a href="mailto:nsantava@pme.duth.gr">Jon Doe</a><br>
 <br />
 
 # Abstract
