@@ -25,7 +25,7 @@ For the code please email to <a href="mailto:nsantava@pme.duth.gr">nsantava@pme.
 
 <br />
 <center>
-<a href="https://arxiv.org/abs/2001.08047" ><font size="6">Paper </font></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9171866" ><font size="6">[Paper] </font></a> <a href="https://github.com/nsantavas/Attention-A-Lightweight-2D-Hand-Pose-Estimation-Approach" ><font size="6">[Code] </font></a>
 </center>
 <br />
 <br />
@@ -162,7 +162,20 @@ which output is added to the product of the Depthwise Separable Convolutional la
   </tr>
 </table>
 
+<br />
+<br />
+<br />
 
+
+<center>
+<div class="masonry">
+<embed src="files/radars/t_MPII+NZSL_Dataset.pdf" type="application/pdf" width="24%">
+  <img src="files/images/hand2.png" width="24%"  alt>
+  <img src="files/images/hand3.png" width="24%"  alt>
+  <img src="files/images/hand14.png" width="24%"  alt>
+
+</div>
+</center>
 
 # Examples
 ---
@@ -195,9 +208,10 @@ which output is added to the product of the Depthwise Separable Convolutional la
 ---
 If you find this paper useful in your research, please consider citing:
 
-	@misc{santavas2020attention,
-    title={Attention! A Lightweight 2D Hand Pose Estimation Approach},
-    author={Nicholas Santavas and Ioannis Kansizoglou and Loukas Bampis and Evangelos Karakasis and Antonios Gasteratos},
-    year={2020},
-    eprint={2001.08047},
-}
+	@article{
+          author={N. {Santavas} and I. {Kansizoglou} and L. {Bampis} and E. {Karakasis} and A. {Gasteratos}},
+          journal={IEEE Sensors Journal},
+          title={Attention! A Lightweight 2D Hand Pose Estimation Approach},
+          year={2020},
+
+
