@@ -164,15 +164,104 @@ which output is added to the product of the Depthwise Separable Convolutional la
 
 <br />
 <br />
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"></th>
+    <th class="tg-7btt">Arch 1</th>
+    <th class="tg-7btt">Arch 2</th>
+    <th class="tg-7btt">Arch 3</th>
+    <th class="tg-7btt">Arch 4</th>
+    <th class="tg-7btt">Arch 5</th>
+    <th class="tg-7btt">Arch 6</th>
+    <th class="tg-7btt">Arch 7</th>
+    <th class="tg-7btt">Arch 8</th>
+    <th class="tg-7btt">Arch 9</th>
+    <th class="tg-7btt">Arch 10</th>
+    <th class="tg-7btt">Arch 11</th>
+    <th class="tg-7btt">Arch 12</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mqa1">Attention module</td>
+    <td class="tg-wp8o">*</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">*</td>
+    <td class="tg-wp8o">*</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">*</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">*</td>
+    <td class="tg-wp8o">-</td>
+    <td class="tg-wp8o">*</td>
+  </tr>
+  <tr>
+    <td class="tg-mqa1">Pooling Method</td>
+    <td class="tg-wp8o">Blur</td>
+    <td class="tg-wp8o">Blur</td>
+    <td class="tg-wp8o">Average</td>
+    <td class="tg-wp8o">Average</td>
+    <td class="tg-wp8o">Blur</td>
+    <td class="tg-wp8o">Average</td>
+    <td class="tg-wp8o">Average</td>
+    <td class="tg-wp8o">Blur</td>
+    <td class="tg-wp8o">Max</td>
+    <td class="tg-wp8o">Max</td>
+    <td class="tg-wp8o">Max</td>
+    <td class="tg-wp8o">Max</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Activation Function</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">ReLU</td>
+    <td class="tg-c3ow">ReLU</td>
+    <td class="tg-c3ow">ReLU</td>
+    <td class="tg-c3ow">ReLU</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">Mish</td>
+    <td class="tg-c3ow">ReLU</td>
+    <td class="tg-c3ow">ReLU</td>
+  </tr>
+</tbody>
+</table>
+<br />
+<br />
+<center>
+<div class="masonry">
+<img src="files/radars/MPII+NZSL_Dataset.png" width="24%" alt>
+<img src="files/radars/FreiHand_Dataset.png" width="24%" alt>
+<img src="files/radars/LSMV_Dataset.png" width="24%" alt>
+<img src="files/radars/SHP_Dataset.png" width="24%" alt>
+
+</div>
+</center>
 <br />
 
 
 <center>
 <div class="masonry">
-<embed src="files/radars/t_MPII+NZSL_Dataset.pdf" type="application/pdf" width="24%">
-  <img src="files/images/hand2.png" width="24%"  alt>
-  <img src="files/images/hand3.png" width="24%"  alt>
-  <img src="files/images/hand14.png" width="24%"  alt>
+<img src="files/radars/t_MPII+NZSL_Dataset.png" width="24%" alt>
+<img src="files/radars/t_FreiHand_Dataset.png" width="24%" alt>
+<img src="files/radars/t_LSMV_Dataset.png" width="24%" alt>
+<img src="files/radars/t_SHP_Dataset.png" width="24%" alt>
 
 </div>
 </center>
