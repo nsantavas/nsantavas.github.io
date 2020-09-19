@@ -11,7 +11,7 @@ layout: page
 </center>
 <br />
 
-For the code please email to <a href="mailto:nsantava@pme.duth.gr">nsantava@pme.duth.gr</a><br>
+For questions please email to <a href="mailto:nsantava@pme.duth.gr">nsantava@pme.duth.gr</a><br>
 <br />
 
 # Abstract
